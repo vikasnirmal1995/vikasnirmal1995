@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikas
 - 👀 I’m a MERN Stack Developer
-- 💞️ I’m looking for best MERN Stack and Tensorflow opportunity
+- 💞️ I’m looking for best MERN Stack and React Native opportunity
 - 📫 vikasnirmal1995@gmail.com
 
 <!---
